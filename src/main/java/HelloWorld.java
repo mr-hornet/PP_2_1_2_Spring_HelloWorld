@@ -1,6 +1,8 @@
 public class HelloWorld {
  
     private String message;
+
+    private String adf;
  
     public String getMessage() {
         return message;
