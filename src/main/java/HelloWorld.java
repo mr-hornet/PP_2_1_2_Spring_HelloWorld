@@ -2,9 +2,8 @@ public class HelloWorld {
  
     private String message;
 
-    private String adf;
- 
     public String getMessage() {
+        System.out.println("Сообщение");
         return message;
     }
  
